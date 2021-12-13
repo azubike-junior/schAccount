@@ -1,0 +1,32 @@
+div#rootwizard ul {
+    font-family: 'Nunito Sans', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif !important;
+    text-transform: none !important;
+    font-size: 13px !important;
+}
+
+.form-group label:not(.error) {
+    text-transform: none !important;
+    font-size: 13px !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Nunito Sans', sans-serif !important;
+}
+
+.form-group label:not(.error) {
+    font-family: 'Nunito Sans', sans-serif !important;
+}
+
+.nav-tabs>li>a {
+    font-family: 'Nunito Sans', sans-serif !important;
+}
